@@ -4,4 +4,4 @@ It is a basic quiz (MCQ) app, in this users can put their name in Home Screen (S
 ![photo_2023-03-04_21-48-25](https://user-images.githubusercontent.com/87036588/222916960-6b3656ea-b309-4dd2-9a6a-f75188cdc35c.jpg)
 ![photo_2023-03-04_21-47-24](https://user-images.githubusercontent.com/87036588/222916964-131b69b6-4f51-4f4d-9743-54c7f7b122a6.jpg)
 ![photo_2023-03-04_21-48-17](https://user-images.githubusercontent.com/87036588/222916965-22b9c6f4-c03a-443f-8553-84260e4d1432.jpg)
-![photo_2023-03-04_21-48-17](https://user-images.githubusercontent.com/87036588/222916967-7043592a-03ef-4499-8bf4-4045bf61f017.jpg)
+
